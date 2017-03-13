@@ -1,10 +1,16 @@
 # Aka
 
-### The Shortcut Manager for your Everyday Project
+### Motivation
+I use terminal with alias for work everyday. And I realise that to fully control my work flow, I would need to
+manipulate the shortcuts in real time. Since there is no better way to control the shortcuts, I created my own.
+
+Aka saves me time and allow me to achieve productivity through the creation of quick shortcut.
+
+### The Workflow Manager for your Everyday Project
 
 [![Gem Version](https://badge.fury.io/rb/aka2.svg)](https://badge.fury.io/rb/aka2)
 
-aka loves and works with alias.
+In other words, a delightful way to manage and grow your terminal shortcuts.
 
 aka generate/edit/destroy/find permanent aliases with a single command.
 
@@ -93,4 +99,4 @@ Aka is released as an open source project under the license of [The MIT License 
 
 ## Contact
 
-[@ytbryan](http://www.twitter.com/ytbryan)
+[@ytbryan](http://www.twitter.com/ytbryan) & 📮 Bryan Lim ytbryan@gmail.com
